@@ -1,0 +1,57 @@
+{
+  "status": {
+    "code": "0",
+    "description": "Transacción Exitosa"
+  },
+  "RqUID": "90124021",
+  "messageRqHeader": {
+    "clientApp": {
+      "org": "ADL",
+      "name": "ADL",
+      "version": "1.0"
+    },
+    "channel": "ADL",
+    "bankInfo": {
+      "clientDate": "2018-12-10T14:59:15.291Z",
+      "ip": "127.0.0.1",
+      "reverse": "false",
+      "language": "es_CO"
+    }
+  },
+  "onBaseInfo": {
+    "code": "00",
+    "description": "",
+    "result": [
+      {
+        "documentId": "951575769",
+        "name": "[6/23/2020] 0056 Estudio de Credito o Cupo (Viable) - ID Cliente: 1073188965",
+        "LatestRevision": "1",
+        "documentDetail": {
+          "id": "1448",
+          "description": "0056 Estudio de Credito o Cupo (Viable)"
+        },
+        "dataStored": "2020-06-23 15:55:20"
+      },
+      {
+        "documentId": "951575768",
+        "name": "[6/23/2020] 0056 Estudio de Credito o Cupo (Viable) - ID Cliente: 1073188965",
+        "LatestRevision": "1",
+        "documentDetail": {
+          "id": "1448",
+          "description": "0056 Estudio de Credito o Cupo (Viable)"
+        },
+        "dataStored": "2020-06-23 15:54:47"
+      },
+      {
+        "documentId": "951575767",
+        "name": "[6/23/2020] 0056 Estudio de Credito o Cupo (Viable) - ID Cliente: 1073188965",
+        "LatestRevision": "1",
+        "documentDetail": {
+          "id": "1448",
+          "description": "0056 Estudio de Credito o Cupo (Viable)"
+        },
+        "dataStored": "2020-06-23 15:54:13"
+      }
+    ]
+  }
+}
